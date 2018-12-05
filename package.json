@@ -1,0 +1,23 @@
+{
+  "name": "nekoslife.js",
+  "version": "1.0.0",
+  "description": "A wrapper for the nekos.life API, written in TypeScript.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bananaboy21/nekoslife.js.git"
+  },
+  "author": "bananaboy21",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bananaboy21/nekoslife.js/issues"
+  },
+  "homepage": "https://github.com/bananaboy21/nekoslife.js#readme",
+  "dependencies": {
+    "@types/superagent": "^3.8.5",
+    "superagent": "^4.0.0"
+  }
+}
