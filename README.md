@@ -1,5 +1,5 @@
 # Nekoslife
-An API wrapper for [nekos.life](https://nekos.life)
+A Node.js library to facilitate the use of the [nekos.life](https://nekos.life) API.
 
 ## Install
 ```sh
